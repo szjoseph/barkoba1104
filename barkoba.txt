@@ -3,3 +3,4 @@ Igen
 Használati tárgy?
 Igen
 Elektronikus?
+Igen
