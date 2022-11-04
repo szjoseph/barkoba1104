@@ -2,3 +2,4 @@ Tárgy?
 Igen
 Használati tárgy?
 Igen
+Elektronikus?
